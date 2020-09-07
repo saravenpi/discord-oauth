@@ -1,0 +1,19 @@
+{
+  "name": "example oauth",
+  "version": "1.0.0",
+  "description": "Discord oauth example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node /lib/server.js"
+  },
+  "author": "saravenpi",
+  "license": "MIT",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.10.3",
+    "node-fetch": "^2.6.0"
+  }
+}
