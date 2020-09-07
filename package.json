@@ -4,7 +4,7 @@
   "description": "Discord oauth example",
   "main": "app.js",
   "scripts": {
-    "start": "node /lib/server.js"
+    "start": "node ./lib/server.js"
   },
   "author": "saravenpi",
   "license": "MIT",
