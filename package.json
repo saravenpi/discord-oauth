@@ -1,5 +1,5 @@
 {
-  "name": "example oauth",
+  "name": "exampleoauth",
   "version": "1.0.0",
   "description": "Discord oauth example",
   "main": "app.js",
