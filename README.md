@@ -10,7 +10,7 @@ It's a example of oauth 2 discord.
 
 **redirectURL**: https://yourwebsite.com (it's important, dont add any "/" at the end of the adress!)
 
-# Warning
+# Important
 
 Don't forget the environnement variables
 
