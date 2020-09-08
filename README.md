@@ -20,3 +20,7 @@ Don't forget the environnement variables
 The Discord Oauth scope is Identify
 
 Remember to add http(s)://yourwebsite.com/callback to your url redirects in https://discordapp.com/developers/applications/
+
+# Deployed Example
+
+[Deployed Example on Heroku](https://discord-oauth-example.herokuapp.com)
