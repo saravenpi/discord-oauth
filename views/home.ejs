@@ -5,10 +5,20 @@
       <title>Discord Oauth Example</title>
    </head>
    <body>
+     <style>
+        .centromax {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -moz-transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+        }
+     </style>
     <div class="centromax">
+      <img src="https://cdn.discordapp.com/avatars/<%= userid %>/<%= avatar %>.png?size=128" style="border-radius:50%">
       <p class="is-medium">
          Hi <%= username %>
-         <img src="https://cdn.discordapp.com/avatars/<%= userid %>/<%= avatar %>.png?size=128" style="border-radius:50%">
       </p>
     </div>
    </body>
