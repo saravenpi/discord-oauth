@@ -2,6 +2,9 @@
 
 It's a example of oauth 2 discord.
 
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/saravenpi)
+
 # Required environnement variables
 
 **CLIENT_ID**: find it in https://discordapp.com/developers/applications/
